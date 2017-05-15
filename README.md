@@ -16,11 +16,11 @@ Movie trailer website is written in **python** (server side code) language which
 
 ## How to run the program in Windows
 
-Make sure there are three python scripts in the folder namely EntertainmentCenter.py, fresh_tomatoes.py, media.py
-Also all three scripts must exists in the same folder. 
-Right click on EntertainmentCenter.py file and select "Edit with IDLE" option.
-Select Run from the menu list and click on Run Module. Alternate option (Press F5 in keyboard)
-The movie trailer website opens in the browser.   
+1. Make sure there are three python scripts in the folder namely EntertainmentCenter.py, fresh_tomatoes.py, media.py
+2. Also all three scripts must exists in the same folder. 
+3. Right click on EntertainmentCenter.py file and select "Edit with IDLE" option.
+4. Select Run from the menu list and click on Run Module. Alternate option (Press **F5** in keyboard)
+5. The movie trailer website opens in the browser.   
 
 ## License
 
